@@ -10,7 +10,7 @@ This is a Node.js project. Install Node.js 14.8.x or higher then run this in the
 directory:
 
 ```bash
-$ npm install
+$ npm install --production
 ```
 
 # Run
